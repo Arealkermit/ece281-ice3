@@ -1,5 +1,18 @@
 --+----------------------------------------------------------------------------
 --| 
+--| FILENAME      : ripple_adder.vhd
+--| AUTHOR(S)     : Alan Folsom
+--| CREATED       : 02/11/2026
+--| DESCRIPTION   : This file implements a one bit half adder.
+--|
+--| DOCUMENTATION : None
+
+--| REQUIRED FILES :
+--|
+--|    Libraries : ieee
+--|    Packages  : std_logic_1164, numeric_std, unisim
+--|    Files     : NONE
+
 --| DESCRIPTION   : This file implements the top level module for a BASYS 
 --|
 --|     Ripple-Carry Adder: S = A + B
