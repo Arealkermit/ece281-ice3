@@ -25,3 +25,7 @@ Assert statements of other severity levels will be reported, but not fail the wo
 
 ![Ripple Adder Waveform](Waveform.png)
 ![top_vasys3 sketch](sketch.png)
+
+## Documentation
+
+I used ChatGPT to figure out a gitbash problem I was having. I used some outside google references to understand the VHDL and there was a point my code wasn't working so I used ChatGPT to understand the error it was outputting. 
